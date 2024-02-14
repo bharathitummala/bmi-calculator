@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight">Weight</string>
+    <string name="_0">0</string>
+    <string name="kg">Kg</string>
+    <string name="calculate">Calculate</string>
+    <string name="Height">Height</string>
+    <string name="cm">Cm</string>
+</resources>
